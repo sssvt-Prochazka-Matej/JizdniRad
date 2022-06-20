@@ -1,2 +1,4 @@
-Vizualizace jizdního řádu pro jednotlivé zastávky pomocí GDI grafiky.
+# Jízdní řád
+
+Vizualizace jizdního řádu pro jednotlivé zastávky metra B pomocí GDI grafiky.
 
